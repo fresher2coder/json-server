@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "personal": {
+        "name": "Dineshkumar",
+        "email": "dk@gmail.com",
+        "phone": "968574857",
+        "dob": "2025-04-26",
+        "gender": "male"
+      },
+      "address": {
+        "doorno": "2",
+        "street": "dk street",
+        "city": "chennai",
+        "state": "tamil nadu",
+        "country": "india",
+        "pin": "965874"
+      },
+      "credentials": {
+        "username": "dk0607",
+        "password": "0607"
+      },
+      "id": 1
+    }
+  ]
+}
